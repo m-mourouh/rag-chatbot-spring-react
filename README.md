@@ -2,7 +2,8 @@
 
 #### App demo
 
-https://github.com/user-attachments/assets/5ae85e4d-1106-4dd7-9e40-cfa5237167e4
+https://github.com/user-attachments/assets/d40bfdf4-1a52-4acb-beb5-25519a44e49c
+
 
 ### Configuration 
   - add your `cv.pdf` in `/src/main/resources/pdfs`
